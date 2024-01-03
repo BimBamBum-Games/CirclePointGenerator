@@ -1,2 +1,1 @@
-# Unity_ML
-Unity ML Basic Test
+Basic circle point generator.
